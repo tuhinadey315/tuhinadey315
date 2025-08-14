@@ -40,7 +40,7 @@
 
 📌 **Pinned Projects**
 
-[Portfolio Website](https://rohitc154.github.io/Portfolio/) • [Weather App](https://rohitc154.github.io/Weather_Status/)
+• [Weather App](https://rohitc154.github.io/Weather_Status/)
 
 ---
 
