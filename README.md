@@ -31,4 +31,4 @@
 📫 **Let’s Connect**
 <!--
 [![LinkedIn](https://img.shields.io/badge/-Rohit%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)  -->
-✉️ Email: [rohit4bnc@gmail.com](mailto:deyt213@gmail.com)
+✉️ Email: [deyt213@gmail.com](mailto:deyt213@gmail.com)
