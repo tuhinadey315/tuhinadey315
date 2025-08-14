@@ -6,7 +6,7 @@
 🌟 **About Me**
 
 - 🎓 Currently pursuing **MCA from KIIT**
-- 🎓 Completed **BCA from Patna University**
+- 🎓 Completed **BCA from Ranchi University**
 - 💡 Exploring **Web Development, Java, and Machine Learning**
 - 🔭 I’m currently working on: **React.js Projects & DSA**
 - 📚 I'm currently learning: **DSA, System Design & Git**
@@ -38,10 +38,6 @@
 
 ---
 
-📌 **Pinned Projects**
-
-• [Weather App](https://rohitc154.github.io/Weather_Status/)
-
 ---
 
 📫 **Let’s Connect**
@@ -50,12 +46,6 @@
 ✉️ Email: [rohit4bnc@gmail.com](mailto:rohit4bnc@gmail.com)
 
 ---
-
-⭐ **Fun Quote**
-
-> “First, solve the problem. Then, write the code.” – Rohit Kumar
-
-
 
 <!--
 **rohitc154/rohitc154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
